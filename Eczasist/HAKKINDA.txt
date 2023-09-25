@@ -1,0 +1,19 @@
+################################################################################# ECZASİST ####################################################################################
+
+Eczasist bir eczane asistanıdır
+
+Bu otomasyon sayesinde;
+--> İlaç stok takibi
+--> Müşteri , doktor takibi
+--> Reçete düzenlemesi eklenmesi ve takibi 
+--> Girilen reçete bilgilerine göre otomatik olarak fiyatlandırma yapabilirsiniz
+--> Yaptığınız satışların kaydını tutabilir ve satıştan sonra elinizde kalan stokları kontrol edebilirsiniz
+
+NOT: Otomasyonu çalıştırmak için db > bin > debug > net6.0-windows > db.exe
+
+NOT: Otomasyonu çalıştırmadan önce SqlConnection baglantısın da belirtilen veri kaynağını kendi bilgisayarınızdanki pharmacy veritabanını dahil ettiğiniz serverin adını girmeniz gerekmektedir aksi taktirde veritabanına erişemezsiniz.
+
+NOT: herhangi bir hata ve problem ile karşılaşmanız durumunda mertalkan00@gmail.com mail adresi üzerinden benimle iletişime geçebilirsiniz...   
+
+Mertcan Alkan 
+ 20-703-048
