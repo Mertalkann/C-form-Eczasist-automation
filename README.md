@@ -43,7 +43,11 @@ Eczane otomasyon sistemi, kullanıcı dostu bir arayüzle aşağıdaki işlemler
 <!-- Veritabanı Tabloları ve İlişkileri -->
 ## 🗃️ Veritabanı Tabloları ve İlişkileri
 
-Projenizde kullanılan MSSQL veritabanı, çeşitli tablolar arasındaki ilişkilerle tasarlanmıştır. İşte bu tabloların ve ilişkilerin ayrıntılı açıklamaları:
+<p align="center">
+  <img src="https://github.com/Mertalkann/C-form-Eczasist-automation/blob/main/Eczasist/20%20703.048%20Mertcan%20Alkan.png" alt="Tablolar Arası İlişkiler">
+</p>
+
+Proje de  kullanılan MSSQL veritabanı, çeşitli tablolar arasındaki ilişkilerle tasarlanmıştır. İşte bu tabloların ve ilişkilerin ayrıntılı açıklamaları:
 
 ### İlaçlar (drugs)
 
@@ -57,7 +61,7 @@ Müşterilerin bilgilerini saklayan bu tablo, her müşteri için bir kimlik (ID
 
 ### İlişkiler
 
-Veritabanınız, aşağıdaki ilişkileri içerir:
+Veritabanı, aşağıdaki ilişkileri içerir:
 
 - İlaçlar (drugs) tablosu, reçete detayları (prescription_details) tablosuyla birincil anahtar ile ilişkilidir. Bu ilişki, bir reçetede hangi ilaçların verildiğini kaydetmek için kullanılır.
 
